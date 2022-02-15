@@ -1,0 +1,45 @@
+.headers{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+.container{
+    border-radius: 15%;
+}
+.myImages{
+    border-radius: 50%;
+}
+.buttons{
+    border: 0px;
+    background-color: white;
+}
+.buttons:hover{
+    background-color: beige;
+    transform: scale(1.2);
+    transition: scale 0.5s;
+}
+.input-field{
+    width: 31px;
+    height: 27px;
+    padding-left: 9px;
+    border: 0px;
+    font-weight: 700;
+    font-size: large;
+}
+.checkoutInfo{
+    border-radius: 20px;
+    background-color: #9ac2d985;
+}
+.checkout-button{
+    position: relative;
+    left: 0;
+    top: 60px;
+    border: 0px;
+    width: 100%;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #ff00002b;
+}
